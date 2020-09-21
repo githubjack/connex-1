@@ -1,6 +1,11 @@
 # connex-1
 This project was created using Express server on the backend and reactjs on the frontend
 
+## How to run
+Clone or download the zip file from here. once complete unpack the contents to a directory.
+cd into connex-1/node_express_api and run npm install to get all the node dependancies
+Repeat this process once complete in the react_express_api directory.
+
 ## Available Scripts
 
 In the project(s) directories, you can run:
